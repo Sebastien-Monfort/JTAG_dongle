@@ -506,7 +506,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "JTAG_dongle.step",
       "svg": "",
       "vrml": ""
     },
