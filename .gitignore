@@ -36,3 +36,6 @@ plots
 *.log
 fp-lib-table
 fp-info-cache
+
+output/*
+
